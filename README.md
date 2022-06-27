@@ -2,6 +2,8 @@
 
 -------------- RUN PROJECT --------------
 
-$ git clone https://github.com/0xAlexDev/GeolocationPipelineProject.git
+git clone https://github.com/0xAlexDev/GeolocationPipelineProject.git
 
-$ docker-compose up 
+cd GeolocationPipelineProject
+
+docker-compose up 
