@@ -1,6 +1,6 @@
 # GeolocationPipelineProject
 ## Description
-```- GeolocationPipeline is a realtime pipeline for geographic data transmission and classification k-means clustering algorithms. Technologies used: Docker - NodeJS - Logstash - Kafka - Spark - Elasticsearch - Kibana```
+```GeolocationPipeline is a realtime pipeline for geographic data transmission and classification k-means clustering algorithms. Technologies used: Docker - NodeJS - Logstash - Kafka - Spark - Elasticsearch - Kibana```
 ## Installation
 ```- git clone https://github.com/0xAlexDev/GeolocationPipelineProject.git```
 ## Start application
