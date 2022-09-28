@@ -1,10 +1,10 @@
 # GeolocationPipelineProject
-
--------------- RUN PROJECT --------------
-
-git clone https://github.com/0xAlexDev/GeolocationPipelineProject.git
-
-cd GeolocationPipelineProject
+## Description
+```- GeolocationPipeline is a realtime pipeline for geographic data transmission and classification k-means clustering algorithms. Technologies used: Docker - NodeJS - Logstash - Kafka - Spark - Elasticsearch - Kibana```
+## Installation
+```- git clone https://github.com/0xAlexDev/GeolocationPipelineProject.git```
+## Start application
+```cd GeolocationPipelineProject
 
 cd GeolocationProject
 
@@ -16,4 +16,7 @@ go to url -> http://localhost:5601/app/management/kibana/objects
 
 import -> Dashboard.ndjson : in main folder
 
-go to url -> http://localhost:5601/app/dashboards#/view/9bd814d0-f4aa-11ec-b7c7-154d3d25809d
+go to url -> http://localhost:5601/app/dashboards#/view/9bd814d0-f4aa-11ec-b7c7-154d3d25809d``` 
+
+
+
